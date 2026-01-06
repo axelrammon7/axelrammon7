@@ -11,16 +11,3 @@ Full Stack Developer
 
 ### Socials
 <p align="left"><a href="https://www.linkedin.com/in/axel-rammon-4493b436b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@Axel7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<div style="display: flex">
-<p>
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=axelrammon7&show_icons=true&theme=codeSTACKr" alt="axelrammon's stats"/>
-</p>
-<p>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelrammon7&layout=compact&theme=codeSTACKr" alt="axelrammon's most languages"/>
-</p>
-</div>
